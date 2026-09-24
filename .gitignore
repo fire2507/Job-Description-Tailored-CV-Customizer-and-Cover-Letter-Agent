@@ -1,0 +1,19 @@
+# Environment variables / Secrets
+.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Outputs directory
+outputs/*.pdf
+outputs/*.md
+
+# Anaconda / Virtual Environment
+env/
+venv/
+ENV/
+.venv/

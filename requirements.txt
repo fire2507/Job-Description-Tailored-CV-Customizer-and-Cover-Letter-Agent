@@ -1,0 +1,10 @@
+google-genai
+streamlit
+pypdf
+beautifulsoup4
+xhtml2pdf
+markdown
+python-dotenv
+pydantic
+certifi
+urllib3
